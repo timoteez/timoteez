@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/121582937/227421486-931ba080-8a6e-4e92-892e-0db398566614.png">
+</p>
 
 <!--
 **timoteez/timoteez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
